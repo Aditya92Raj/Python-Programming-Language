@@ -1,0 +1,12 @@
+#Line Merge in Python.
+print("Aditya Raj,",end=" ")
+print("Aryan Raj,",end=" ")
+print("Alok Kumar,",end=" ")
+print("Avinash Kumar,",end=" ")
+print("Abhishek Raj,",end=" ")
+print("Gaurav Kumar,",end=" ")
+print("Gagan Kumar,",end=" ")
+print("Ratnesh Kumar,",end=" ")
+print("Piyush Kumar,",end=" ")
+print("Sushil Kumar,",end=" ")
+print("Sandeep Kumar,",end=" ")
