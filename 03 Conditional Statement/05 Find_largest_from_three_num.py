@@ -1,7 +1,7 @@
 #Write a program to find the largest of three numbers.
-a=int(input("Enter a number:"))
-b=int(input("Enter a number:"))
-c=int(input("Enter a number:"))
+a=int(input("Enter your first number:"))
+b=int(input("Enter your second number:"))
+c=int(input("Enter your third number:"))
 if a>b and a>c:
     print(f"{a} is largest")
 elif b>c:
