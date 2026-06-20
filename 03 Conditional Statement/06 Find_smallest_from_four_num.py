@@ -1,8 +1,8 @@
 #Write a program to find the smallest of four numbers.
-a=int(input("Enter a number:"))
-b=int(input("Enter a number:"))
-c=int(input("Enter a number:"))
-d=int(input("Enter a number:"))
+a=int(input("Enter your first number:"))
+b=int(input("Enter your second number:"))
+c=int(input("Enter third number:"))
+d=int(input("Enter fourth number:"))
 if a<b and a<c and a<d:
     print(f"{a} is smallest")
 elif b<c and b<d:
