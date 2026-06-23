@@ -1,0 +1,7 @@
+#List Method:-
+#list.sort()
+a=[12,19,8,25]
+print("list=",a)
+a.sort()
+print("new list=",a)
+#Basically we use sort method in list for create assending order same type of data (element) in list.
