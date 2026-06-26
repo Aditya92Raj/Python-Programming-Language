@@ -1,5 +1,5 @@
 #Set in python:-
-#set.remove(element)
+#set.clear()
 a={1,3,9,7,8,2}
 print("Set=",a)
 print(type(a))
