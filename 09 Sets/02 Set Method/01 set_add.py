@@ -5,4 +5,5 @@ print("Set=",a)
 print(type(a))
 a.add(6)
 print("new set=",a)
+#This method is used to add the element in the set.
 #set is automatically converts in assending order.
