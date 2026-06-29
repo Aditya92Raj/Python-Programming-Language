@@ -3,4 +3,4 @@ s=0
 for x in range(1,11):
     p=x**2
     s+=p
-print("Sum of numbers=",s)
+print("Sum of squares of numbers=",s)
