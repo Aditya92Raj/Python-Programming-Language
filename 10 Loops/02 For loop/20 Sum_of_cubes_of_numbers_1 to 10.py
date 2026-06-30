@@ -3,4 +3,4 @@ s=0
 for x in range(1,11):
     p=x**3
     s+=p
-print("Sum of squares of numbers=",s)
+print("Sum of cubes of numbers=",s)
